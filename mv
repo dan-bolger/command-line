@@ -1,0 +1,11 @@
+Move file or change file name, ie:
+
+mv <filename> <otherdirectory> (directory must exist, obv)
+
+or
+
+mv <filename> <newfilename> (renaming)
+
+or even
+
+mv <filename> <otherdirectory>/<evennewerfilename>
