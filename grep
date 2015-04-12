@@ -1,0 +1,13 @@
+Search inside a file or files
+
+ie in one file:
+
+grep 'dog' doc1.txt
+
+or in a few files:
+
+grep 'dog' doc1.txt dog2.txt dog3.txt
+
+...um...
+
+...that's it :(
