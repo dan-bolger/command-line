@@ -1,0 +1,15 @@
+Word count - count the amount of lines, words, or characters
+
+ie:
+
+wc textdoc.txt
+
+extras here:
+
+wc -l textdoc.txt     #just the line count please
+wc -m textdoc.txt     #just the amount of characters please
+wc -w textdoc.txt     #just the amount of actual words please
+
+wc -l -w textdoc.txt  #just the amount of lines and also actual words please
+
+etc
